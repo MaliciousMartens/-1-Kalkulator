@@ -1,0 +1,53 @@
+/**************************TAG STYLES***********************************/
+body {
+  background-color: #D3E4CD;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+table {
+  background-color: #FEF5ED;
+  border: 0.3em solid #99A799;
+  margin: auto;
+  table-layout: fixed;
+  width: 60%;
+  margin-top: 10%;
+}
+
+thead {
+  background-color: #D3E4CD;
+  font-size: 2em;
+}
+
+td {
+  size: 25%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 2em;
+
+}
+
+button {
+  background-color: #FEF5ED;
+  border: 0.15em solid #99A799;
+  width: 100%;
+  font-size: 1em;
+}
+
+button:hover {
+  background-color: #99A799;
+}
+
+/**************************ID STYLES***********************************/
+#calc-display {
+  background-color: #99A799;
+  border: 0.15em solid black;
+  width: 100%;
+  font-size: 2.20em;
+  color: black;
+  font-weight: bold;
+}
+
+#calc-clear {
+  color:red;
+  font-weight: bolder;
+}
